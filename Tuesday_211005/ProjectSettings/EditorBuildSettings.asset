@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NewScene.unity
     guid: 8e0837e7f3797eb419c4a487820ecb50
+  - enabled: 1
+    path: Assets/Gate&Enemy.unity
+    guid: 5069b4959c8751b40b3f8b377a468aa2
   m_configObjects: {}

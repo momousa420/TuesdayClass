@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Gate&Enemy.unity
     guid: 5069b4959c8751b40b3f8b377a468aa2
+  - enabled: 1
+    path: Assets/TransitionDoor.unity
+    guid: 77c072825acc7344b851a36dc9c6fa5a
   m_configObjects: {}
